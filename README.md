@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinianand1
+- 👋 Hi, I’m Binita Sahai.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning ReactJS...
 
