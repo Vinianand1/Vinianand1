@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Binita Sahai.
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning ReactJS...
+- 🌱 I’m currently learning ReactJS and API Documentation
 
 - 📫 How to reach me:binitasahai30@gmail.com
 
